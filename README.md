@@ -12,7 +12,9 @@
 3) Установите следующие библиотеки, прописав в терминале:
 
   pip install playwright
+  
   pip install pytest
+  
   pip install pytest-playwright
 
 4) Перейдите в директорию с папкой проекта, прописав в терминале:
